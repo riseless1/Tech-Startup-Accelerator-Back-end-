@@ -1,1 +1,1 @@
-# Tech-Startup-Accelerator-Back-end-
+# Tech Startup Accelerator (Back-end)
